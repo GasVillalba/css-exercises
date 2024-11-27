@@ -8,13 +8,11 @@ body {
   font-size: 14px;
 }
 
-
-
 .para {
   font-size: 22px;
   color: black;
   font-weight: 800;
-}
+} 
 
 .confirm {
   background: green;
