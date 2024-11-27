@@ -27,14 +27,13 @@ body {
   font-size: 20px;
 }
 
-.child {
-  color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
+.text {
+  color: black;
+  font-weight: 100;
+  font-size: 22px;
 }
 
-div.text {
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
+.text .child {
+  font-weight: 800;
+  font-size: 14px;
 }
